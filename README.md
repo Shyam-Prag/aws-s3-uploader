@@ -1,4 +1,4 @@
-# aws-s3-uploader
+Springboot + React + Amazon S3
 
 Application Architecture:
 -> Springboot Java backend application
